@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Keylogger</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Keylogger](https://github.com/Thabangmokhefane/Keylogger-)
 - <b>OWASP Risk Calculator</b>
 
 <h2>Certifications</h2> Foundations of Cybersecurity https://coursera.org/share/1b4214748fba5972d42f50caf138c009, Play It Safe: Manage Security Risks https://coursera.org/share/4088e90e3a856d61460adf40c12771f6, Connect and Protect: Networks and Network Security https://coursera.org/share/a47834805bd5e7698080bcefe1736cc3
