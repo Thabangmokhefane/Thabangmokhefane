@@ -5,7 +5,7 @@
 - <b>Keylogger</b>
   - [Keylogger](https://github.com/Thabangmokhefane/Keylogger-)
 - <b>LSB_Stegnography</b>
- - [Keylogger](https://github.com/Thabangmokhefane/LSB-Steganography)
+  - [LSB Stegnography](https://github.com/Thabangmokhefane/LSB-Steganography)
 
 <h2>Certifications</h2> Foundations of Cybersecurity https://coursera.org/share/1b4214748fba5972d42f50caf138c009, Play It Safe: Manage Security Risks https://coursera.org/share/4088e90e3a856d61460adf40c12771f6, Connect and Protect: Networks and Network Security https://coursera.org/share/a47834805bd5e7698080bcefe1736cc3
 
